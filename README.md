@@ -4,5 +4,5 @@ I'm Hoan Nguyen, a Posts and Telecommunications Institute of Technology (PTIT) s
 
 ## About Me
 
-- 🎓 I'm currently a. third-year student at Posts and Telecommunications Institute of Technology.
+- 🎓 I'm currently a third-year student at Posts and Telecommunications Institute of Technology.
 - 💻 I'm studying Information Technology - IT.
